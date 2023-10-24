@@ -15,6 +15,8 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lenam0n&repo=Robofriends&theme=material-palenight">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lenam0n&repo=Quiz-Lenam0n.github.io&theme=material-palenight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lenam0n&repo=Arduino_TmpSensor_send&theme=material-palenight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lenam0n&repo=Arduino_TmpSensor_receive&theme=material-palenight">
 </div>
 
 
