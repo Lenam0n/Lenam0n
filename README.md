@@ -39,12 +39,10 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
         <a href="https://lenam0n.net" target="_blank" style="text-decoration: none;">
             <img src="https://img.icons8.com/ios-filled/50/000000/web-design.png" alt="Portfolio Icon" width="30px" />
         </a>
-        
         <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/lenam0n/" target="_blank" style="text-decoration: none;">
             <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn Icon" width="30px" />
         </a>
-        
         <!-- Twitter -->
         <a href="https://x.com/Lenam0n" target="_blank" style="text-decoration: none;">
             <img src="https://img.icons8.com/ios-filled/50/1da1f2/twitter.png" alt="Twitter Icon" width="30px" />
