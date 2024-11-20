@@ -18,7 +18,7 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
 ---
 
 ### 🌐 Connect with Me
-<div align="center">
+<div >
     <p>
         <img src="https://img.icons8.com/ios-filled/50/000000/web-design.png" alt="Portfolio Icon" width="30px" />
         <a href="https://lenam0n.net" target="_blank">Portfolio Website</a>
