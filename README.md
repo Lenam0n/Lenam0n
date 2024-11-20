@@ -11,10 +11,6 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenam0n&langs_count=8&theme=material-palenight&hide=Shaderlab,HLSL,HTML,CSS" alt="Top Languages" width="48%">
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lenam0n&theme=material-palenight" alt="WakaTime Stats" width="80%">
-</div>
-
 ---
 
 ### 🌐 Connect with Me
