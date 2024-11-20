@@ -8,8 +8,7 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
 
 <div align="center">
     <table style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse; border: none; display: flex; align-items: stretch;">
-        <tr style="display: flex; width: 100%;  display: flex
-;
+        <tr style="display: flex; width: 100%;  display: flex; border: none;
     flex-direction: row;
     align-items: center;
     gap: 25px;">
