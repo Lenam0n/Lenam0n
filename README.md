@@ -34,9 +34,9 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
 
 ### 🌐 Connect with Me
 <div align="center" style="margin-top: 30px;">
-    <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+    <div style="display: flex; align-items: center; gap: 25px;">
         <!-- Portfolio -->
-        <a href="https://lenam0n.net" target="_blank" style="text-decoration: none; text-decoration:none;">
+        <a href="https://lenam0n.net" target="_blank" style="text-decoration: none;">
             <img src="https://img.icons8.com/ios-filled/50/000000/web-design.png" alt="Portfolio Icon" width="30px" />
         </a>
         <!-- LinkedIn -->
