@@ -15,7 +15,9 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
                     <img src="https://github-readme-stats.vercel.app/api?username=Lenam0n&show_icons=true&theme=material-palenight" alt="Lena's GitHub stats" width="100%">
                 </div>
                 <div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lenam0n&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+                    <a href="https://git.io/streak-stats">
+                        <img src="https://streak-stats.demolab.com?user=Lenam0n&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" width="100%">
+                    </a>
                 </div>
             </td>
             <!-- Rechter Container: Top Languages -->
