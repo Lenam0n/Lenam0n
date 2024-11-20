@@ -8,7 +8,7 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
 
 <div align="center">
     <table style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse; border: none;">
-        <tr>
+        <tr style=" border: none;">
             <!-- Linker Container: GitHub Stats und GitHub Streaks -->
             <td style="vertical-align: top; padding-right: 20px; width: 60%; border: none;">
                 <div style="margin-bottom: 20px;">
