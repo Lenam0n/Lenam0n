@@ -8,7 +8,7 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
 
 <div align="center">
     <table style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse; border: none; display: flex; align-items: stretch;">
-        <tr style="display: flex; width: 100%; gap: 20px; align-items: stretch;">
+        <tr style="display: flex; width: 100%; gap: 30px; align-items: stretch;">
             <!-- Linker Container: GitHub Stats und GitHub Streaks -->
             <td style="flex: 3; display: flex; flex-direction: column; gap: 20px; border: none; padding: 0;">
                 <div style="margin-bottom: 20px; flex: 1;">
