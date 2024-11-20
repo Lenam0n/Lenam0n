@@ -19,13 +19,16 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
 
 ### 🌐 Connect with Me
 <div align="center">
-    <a href="https://lenam0n.net" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/000000/web-design.png" alt="Portfolio Icon" width="40px" />
-    </a>
-    <a href="https://www.linkedin.com/in/lenam0n/" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn Icon" width="40px" />
-    </a>
-    <a href="https://x.com/Lenam0n" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/1da1f2/twitter.png" alt="Twitter Icon" width="40px" />
-    </a>
+    <p>
+        <img src="https://img.icons8.com/ios-filled/50/000000/web-design.png" alt="Portfolio Icon" width="30px" />
+        <a href="https://lenam0n.net" target="_blank">Portfolio Website</a>
+    </p>
+    <p>
+        <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn Icon" width="30px" />
+        <a href="https://www.linkedin.com/in/lenam0n/" target="_blank">LinkedIn</a>
+    </p>
+    <p>
+        <img src="https://img.icons8.com/ios-filled/50/1da1f2/twitter.png" alt="Twitter Icon" width="30px" />
+        <a href="https://x.com/Lenam0n" target="_blank">Twitter</a>
+    </p>
 </div>
