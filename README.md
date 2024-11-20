@@ -7,7 +7,6 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
 ## 📊 My Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
-    <!-- Linker Container: GitHub Stats und GitHub Streaks -->
     <div style="flex: 1; max-width: 50%; display: flex; flex-direction: column; gap: 20px;">
         <div>
             <img src="https://github-readme-stats.vercel.app/api?username=Lenam0n&show_icons=true&theme=material-palenight" alt="Lena's GitHub stats" width="100%">
@@ -17,7 +16,6 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
         </div>
     </div>
 
-    <!-- Rechter Container: Top Languages -->
     <div style="flex: 1; max-width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenam0n&langs_count=8&theme=material-palenight&hide=Shaderlab,HLSL,HTML,CSS" alt="Top Languages" width="100%">
     </div>
