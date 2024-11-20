@@ -37,15 +37,15 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
     <div style="display: inline-flex; flex-direction: column; align-items: center; gap: 10px; font-family: Arial, sans-serif;">
         <a href="https://lenam0n.net" target="_blank" style="text-decoration: none; color: #000; display: flex; align-items: center; gap: 10px;">
             <img src="https://img.icons8.com/ios-filled/50/000000/web-design.png" alt="Portfolio Icon" width="30px" />
-            <span style="font-size: 18px; font-weight: bold;">Portfolio Website</span>
+            
         </a>
         <a href="https://www.linkedin.com/in/lenam0n/" target="_blank" style="text-decoration: none; color: #0077b5; display: flex; align-items: center; gap: 10px;">
             <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn Icon" width="30px" />
-            <span style="font-size: 18px; font-weight: bold;">LinkedIn</span>
+            
         </a>
         <a href="https://x.com/Lenam0n" target="_blank" style="text-decoration: none; color: #1da1f2; display: flex; align-items: center; gap: 10px;">
             <img src="https://img.icons8.com/ios-filled/50/1da1f2/twitter.png" alt="Twitter Icon" width="30px" />
-            <span style="font-size: 18px; font-weight: bold;">Twitter</span>
+            
         </a>
     </div>
 </div>
