@@ -7,20 +7,20 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
 ## 📊 My Stats
 
 <div align="center">
-    <table style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse; border: none;">
-        <tr style=" border: none;">
+    <table style="width: 100%; max-width: 800px; margin: auto; border-collapse: collapse; border: none; display: flex; align-items: stretch;">
+        <tr style="display: flex; width: 100%; gap: 20px; align-items: stretch;">
             <!-- Linker Container: GitHub Stats und GitHub Streaks -->
-            <td style="vertical-align: top; padding-right: 20px; width: 60%; border: none;">
-                <div style="margin-bottom: 20px;">
+            <td style="flex: 3; display: flex; flex-direction: column; gap: 20px; border: none; padding: 0;">
+                <div style="margin-bottom: 20px; flex: 1;">
                     <img src="https://github-readme-stats.vercel.app/api?username=Lenam0n&show_icons=true&theme=material-palenight" alt="Lena's GitHub stats" width="100%">
                 </div>
-                <div>
+                <div style="flex: 1;">
                     <img src="https://streak-stats.demolab.com?user=Lenam0n&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" width="100%">
                 </div>
             </td>
             <!-- Rechter Container: Top Languages -->
-            <td style="vertical-align: top; width: 40%; border: none;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenam0n&langs_count=8&theme=material-palenight&hide=Shaderlab,HLSL,HTML,CSS" alt="Top Languages" width="100%">
+            <td style="flex: 2; border: none; display: flex; align-items: center; justify-content: center;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenam0n&langs_count=8&theme=material-palenight&hide=Shaderlab,HLSL,HTML,CSS" alt="Top Languages" style="max-height: 100%; width: 100%;">
             </td>
         </tr>
     </table>
