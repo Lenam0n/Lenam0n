@@ -23,7 +23,7 @@ Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.
             </td>
             <!-- Rechter Container: Top Languages -->
             <td style="flex: 2; border: none; display: flex; align-items: center; justify-content: center;">
-                <img src="#" alt="Top Languages" style="max-height: 100%; width: 100%;     height: 415px;">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenam0n&langs_count=8&theme=material-palenight&hide=Shaderlab,HLSL,HTML,CSS,DOCKERFILE"" alt="Top Languages" style="max-height: 100%; width: 100%;     height: 415px;">
             </td>
         </tr>
     </table>
