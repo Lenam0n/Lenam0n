@@ -1,6 +1,7 @@
 # 🌟 Welcome to My GitHub Profile! 🌟
 
-Hi, I'm Lena, an aspiring Fullstack Developer from Germany 🇩🇪.  
+Hi, I'm Lena, Fullstack Developer from Germany 🇩🇪.  
+I mainly work with Typescript, Reactjs, Nextjs and Prisma (PostgreSQL)
 
 ---
 
